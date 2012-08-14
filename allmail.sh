@@ -19,7 +19,7 @@ echo "images copiés …"
 cp -r cachedir cachedirHD
 echo "cache dupliqué …"
 
-mogrify -thumbnail 200x200 "cachedir/*"
+mogrify -thumbnail 350x350 "cachedir/*"
 echo "images réduites …"
 
 montage "cachedir/*" -auto-orient \
