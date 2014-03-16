@@ -8,5 +8,5 @@ attachment contact sheet
 2. use `composite` to generate contact sheet
 
 ## todo 
-- use (http://gmvault.org)[gmvault] to download attachment
+- use [gmvault](http://gmvault.org) to download attachment
 - better batch and may be server side image processing
